@@ -1,4 +1,5 @@
 import pytest
+<<<<<<< HEAD
 import requests
 import uuid
 
